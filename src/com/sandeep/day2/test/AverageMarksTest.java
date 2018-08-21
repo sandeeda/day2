@@ -7,8 +7,10 @@ import org.junit.jupiter.api.Test;
 class AverageMarksTest {
 
 	@Test
-	void test() {
-		fail("Not yet implemented");
+	void claculateAverageTest() {
+		
+		assertEquals(expected, actual);
+		
 	}
 
 }
